@@ -5,7 +5,7 @@ PC acts as a client
 
 Let's play the Tetris on the computer and the PXA270
 
-![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/master/simple-structure.PNG)
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/simple%20structure.PNG)
 
 <h3>Design & Implementation</h2>
 
