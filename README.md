@@ -31,3 +31,9 @@ Let's play the Tetris on the computer and the PXA270
     <li>Seeing next blocks</li>
     <li>Buttons</li>
 </ul>
+<h4>Tetris Battle Game on PXA270</h4>
+<ul>
+    <li>Scores</li>
+    <li>Seeing next blocks</li>
+    <li>Buttons</li>
+</ul>
