@@ -29,13 +29,6 @@ Let's play the Tetris on the computer and the PXA270
     <li>Colored blocks</li>
     <li>Scores</li>
     <li>Seeing next blocks</li>
-    <li>Buttons
-         + Rotate :↑↓
-         + Move : ←→
-         + Straight down : space
-         + Speed up : s
-         + Pause : p
-         + Quit : q
-    </li>
+    <li>Buttons<li>123</li></li>
 </ul>
 
