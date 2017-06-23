@@ -61,5 +61,5 @@ Let's play the Tetris on the computer and the PXA270
 ![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/IOdd3.PNG)
 
 + Battles on PXA270  
-![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd5.PNG)
-![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd6.PNG)
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd5.png)
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd6.png)
