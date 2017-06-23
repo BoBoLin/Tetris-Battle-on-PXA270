@@ -7,7 +7,7 @@ Let's play the Tetris on the computer and the PXA270
 
 ![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/simple%20structure.PNG)
 
-### Design & Implementation
+## Design & Implementation
 
 ##### Socket Connection
 + Starting server when executing program
@@ -44,7 +44,7 @@ Let's play the Tetris on the computer and the PXA270
 > Pause : 8  
 > Quit : 9  
 
-### Differences between PC and PXA270
+#### Differences between PC and PXA270
 + Only three types of uncolored blocks  
 > Border  
 > General blocks  
@@ -52,3 +52,14 @@ Let's play the Tetris on the computer and the PXA270
 + Changing multiplication to shift operation
 + Renewing specific places during landing of the same block to reduce CPU execution
 
+## Results
++ Starting server and connecting  
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/IOdd1.PNG)
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/IOdd2.PNG)
+
++ Battles on PC  
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/IOdd3.PNG)
+
++ Battles on PXA270  
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd5.PNG)
+![alt text](https://github.com/BoBoLin/Tetris-Battle-on-PXA270/blob/master/iodd6.PNG)
