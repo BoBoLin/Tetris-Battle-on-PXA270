@@ -26,23 +26,23 @@ Let's play the Tetris on the computer and the PXA270
 + Scores  
 + Seeing next blocks  
 + Buttons  
-> Rotate :2、5  
-> Move : 4、6  
-> Straight down : 7  
-> Speed up : C  
-> Pause : 8  
-> Quit : 9  
+> Rotate :2、5  
+> Move : 4、6  
+> Straight down : 7  
+> Speed up : C  
+> Pause : 8  
+> Quit : 9  
 
 #### Tetris Battle Game on PXA270
 + Scores  
 + Seeing next blocks  
 + Buttons  
-> Rotate :2、5  
-> Move : 4、6  
-> Straight down : 7  
-> Speed up : C  
-> Pause : 8  
-> Quit : 9  
+> Rotate :2、5  
+> Move : 4、6  
+> Straight down : 7  
+> Speed up : C  
+> Pause : 8  
+> Quit : 9  
 
 ### Differences between PC and PXA270
 + Only three types of uncolored blocks  
