@@ -31,8 +31,8 @@ Let's play the Tetris on the computer and the PXA270
     <li>Seeing next blocks</li>
     <li>Buttons</li>
 </ul>
-<p>　Rotate :↑↓
-<p>　Straight down : space
-<p>　Speed up : s
-<p>　Pause : p
-<p>　Quit : q
+Rotate :↑↓  
+Straight down : space  
+Speed up : s  
+Pause : p  
+Quit : q  
