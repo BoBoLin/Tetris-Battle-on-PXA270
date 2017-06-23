@@ -43,3 +43,12 @@ Let's play the Tetris on the computer and the PXA270
 >>Speed up : C  
 >>Pause : 8  
 >>Quit : 9  
+
+### Differences between PC and PXA270
++ Only three types of uncolored blocks  
+> Border  
+> General blocks   
+> Blocks added by opponent   
++ Changing multiplication to shift operation
++ Renewing specific places during landing of the same block to reduce CPU execution
+
