@@ -8,17 +8,30 @@ Let's play the Tetris on the computer and the PXA270
 <h3>Design & Implementation</h2>
 
 <h4>Socket Connection</h4>
-  - Starting server when executing program
-  - Pressing button to start game after connection
-  - Adding a line to opponent’s screen when clearing  lines
-  - Game over when one of player lose
+<ul>
+    <li>Starting server when executing program</li>
+    <li>Pressing button to start game after connection</li>
+    <li>Adding a line to opponent’s screen when clearing  lines</li>
+    <li>Game over when one of player lose</li>
+</ul>
+
   
 <h4>Thread Implementation</h4>
-  - One thread for playing game
-  - One thread for socket receiving
-  - One thread for socket sending
+<ul>
+    <li>One thread for playing game</li>
+    <li>One thread for socket receiving</li>
+    <li>One thread for socket sending</li>
+</ul>
+
 
 <h4>Tetris Battle Game on PC</h4>
+<ul>
+    <li>Colored blocks</li>
+    <li>Scores</li>
+    <li>Seeing next blocks</li>
+    <li>Buttons</li>
+</ul>
+
   - Colored blocks
   - Scores
   - Seeing next blocks
