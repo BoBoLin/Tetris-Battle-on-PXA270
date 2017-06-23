@@ -22,24 +22,24 @@ Let's play the Tetris on the computer and the PXA270
 
 
 #### Tetris Battle Game on PC
-> Colored blocks
-> Scores
-> Seeing next blocks
-> Buttons
->>Rotate :2、5
->>Move : 4、6
->>Straight down : 7
->>Speed up : C
->>Pause : 8
->>Quit : 9
+> Colored blocks  
+> Scores  
+> Seeing next blocks  
+> Buttons  
+>>Rotate :2、5  
+>>Move : 4、6  
+>>Straight down : 7  
+>>Speed up : C  
+>>Pause : 8  
+>>Quit : 9  
 
 #### Tetris Battle Game on PXA270
-> Scores
-> Seeing next blocks
-> Buttons
->>Rotate :2、5
->>Move : 4、6
->>Straight down : 7
->>Speed up : C
->>Pause : 8
->>Quit : 9
+> Scores  
+> Seeing next blocks  
+> Buttons  
+>>Rotate :2、5  
+>>Move : 4、6  
+>>Straight down : 7  
+>>Speed up : C  
+>>Pause : 8  
+>>Quit : 9  
