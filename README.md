@@ -1,6 +1,6 @@
 # Tetris-Battle-on-PXA270
 
-PXA270 acts as a server
+PXA270 acts as a server</br>
 PC acts as a client
 
 Let's play the Tetris on the computer and the PXA270
