@@ -5,21 +5,20 @@ PC acts as a client
 
 Let's play the Tetris on the computer and the PXA270
 
-<h2>Design & Implementation</h2>
-<h1>pppp</h1>
+<h3>Design & Implementation</h2>
 
-Socket Connection
+<h4>Socket Connection</h4>
   - Starting server when executing program
   - Pressing button to start game after connection
   - Adding a line to opponent’s screen when clearing  lines
   - Game over when one of player lose
   
-Thread Implementation
+<h4>Thread Implementation</h4>
   - One thread for playing game
   - One thread for socket receiving
   - One thread for socket sending
 
-Tetris Battle Game on PC
+<h4>Tetris Battle Game on PC</h4>
   - Colored blocks
   - Scores
   - Seeing next blocks
