@@ -5,7 +5,8 @@ PC acts as a client
 
 Let's play the Tetris on the computer and the PXA270
 
-<h2>Design & Implementation<h2>
+<h2>Design & Implementation</h2>
+<h1>pppp</h1>
 
 Socket Connection
   - Starting server when executing program
