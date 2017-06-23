@@ -34,8 +34,12 @@ Let's play the Tetris on the computer and the PXA270
     <li>Buttons</li>
 </ul>
 <h4>Tetris Battle Game on PXA270</h4>
-<ul>
-    <li>Scores</li>
-    <li>Seeing next blocks</li>
-    <li>Buttons</li>
-</ul>
+>Scores
+>Seeing next blocks
+>Buttons
+>>Rotate :2、5
+>>Move : 4、6
+>>Straight down : 7
+>>Speed up : C
+>>Pause : 8
+>>Quit : 9
